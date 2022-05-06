@@ -1,2 +1,3 @@
 # Follwing files is not allowed to track by git
 social-security.txt
+.ipynb_checkpoints/
